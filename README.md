@@ -71,4 +71,4 @@ bash
 Copy code
 Query :- Total expense category wise
 **********************
-[Response from the LLM answering the question based on the PDF content]
+
